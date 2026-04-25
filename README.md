@@ -14,13 +14,6 @@ Soy ingeniero industrial enfocado en análisis de datos, automatización de proc
 
 ---
 
-## 📊 Proyectos destacados
-- 📌 Análisis de ventas y comportamiento de clientes
-- 📌 Automatización de reportes
-- 📌 Segmentación de clientes
-
----
-
 ## 📫 Contacto
 - LinkedIn: https://www.linkedin.com/in/camilo-andres-castro10/
 - Email: camiloandrescastro3003@gmail.com
